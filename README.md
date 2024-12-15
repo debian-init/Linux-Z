@@ -1,1 +1,1 @@
-# Client-C
+# Uma Replica So Cpu-Z Para linux
